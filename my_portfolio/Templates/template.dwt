@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+	
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+	<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/bch4qoj.css">
+<!-- TemplateBeginEditable name="head" -->
+	<style>
+		.submit_btn{
+			float:left;
+		}
+		main{
+			float:left;
+			margin:0px 0px 0px 0px;
+		}
+		p{
+			float:none;
+		}
+	</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header>&nbsp;</header>
+  <nav>
+	<ul>
+		<li><a href="about.html">About</a></li>
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="gallery.html">Gallery</a></li>
+		<li><a href="contact.html">Contact</a></li>
+	</ul>
+	</nav>
+  <!--Begin Floated Elements-->
+  <aside>
+	  <h3>I'm a man, a friend, a son, a student, a web developer, and a photgrapher, who also doesn't wear glasses</h3>
+    <h3>Join me as I examine life through all of my various lenses</h3> 
+	  <h3>by Caden Haley.</h3>
+  </aside>
+  
+	  <!-- TemplateBeginEditable name="main-content" -->
+		<main>
+		  <h1>Page Title</h1>
+	  </main>
+	  <!-- TemplateEndEditable -->	  <!--End Floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
